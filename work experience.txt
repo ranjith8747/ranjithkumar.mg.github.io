@@ -1,0 +1,73 @@
+WORK EXPERIENCE
+
+Associate General Manager – EngineeringHCL Technologies – Full Time | Jun 2021 – Present
+
+Heading the Medical Robotics Center of Excellence (COE) and acting as solution architect for high-end surgical systems.
+
+Developed innovative solutions in compliance with global medical device standards.
+
+Built and managed high-performance cross-geo teams to deliver mission-critical outcomes.
+
+Active member of the IP committee, representing innovation strategy for the vertical.
+
+Deputy General Manager – Projects (R&D)Vortex Engineering Pvt Ltd – Full Time | Dec 2018 – Jun 2021
+
+Led the Systems Design team for ATM R&D (12+ engineers).
+
+Delivered first-of-its-kind ATM self-service mechanisms with 20% service improvement.
+
+Developed new architectures integrating AI, ML, and IoT.
+
+Deployed MIS with Power BI and built a test automation tool reducing TAKT time by 10%.
+
+Deputy General Manager – R&DSFO Technologies – Full Time | Oct 2016 – Dec 2018
+
+Headed engineering for a German customer; managed a 40+ member cross-functional team.
+
+Delivered a secure, complex currency handling system within tight timelines.
+
+Achieved breakeven in 12 months with 20% profit margins.
+
+Handled shop floor design, supplier strategy, and part sourcing.
+
+Manager – Mechanical DesignVortex Engineering Pvt Ltd – Full Time | Aug 2010 – Oct 2016
+
+Delivered new ATM dispenser designs and patented a unique mechanism.
+
+Coordinated product lifecycle efforts across cost reduction, quality, and feature upgrades.
+
+Led ISO coordination and implemented Windchill-based data management.
+
+Senior Design EngineerNCR Corporation – Full Time | Jan 2009 – Aug 2010
+
+Contributed to envelope and deposit module design in NPD teams.
+
+Design EngineerTVS Electronics – Full Time | Jun 2006 – Dec 2008
+
+Designed Dot Matrix Printers from concept to production.
+
+EDUCATION
+
+M.Sc. Manufacturing Management, BITS Pilani (2007 – 2010)
+
+B.E. Mechanical Engineering, Anna University Chennai (2002 – 2006)
+
+CERTIFICATIONS & STANDARDS
+
+Certified ISO 13485 & ISO 9001 Internal Auditor (TÜV)
+
+Familiar with IEC 60601, IEC 62366, FDA CFR Part 820, CE, UL, RoHS
+
+Scaled Agile Framework (SAFe) Environment
+
+PATENTS
+
+US20210365800A1: Cash dispensing mechanism using dual picking
+
+US20210365802A1: Cash dispenser pick mechanism with rubber wheel
+
+US20210365803A1: Dispensing mechanism with position control for improved performance
+
+US20210365804A1: Guide system for stacked note feeding and dispensing
+
+[Pending]: Force measurement solution for surgical instrument verification (InstruCheck)
