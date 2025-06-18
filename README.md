@@ -1,3 +1,7 @@
+# Product Development Specialist
+
+# Technical Skills Product Profit Analysis – Project Profit and Loss Management - Mechanism design - Systems design and implementation - Data analysis - New product introductions - Technological analysis - Performance metrics analysis - Technology utilization optimization - Product Costing - Product Life Cycle Management - Business Processes - Engineering Change Management - Design Data Management Tools - Excellent communication skills
+
 Picture 6, PictureRanjithkumar MG  
 
 Text Box 1, TextboxChennai, Tamil Nadu, India 
